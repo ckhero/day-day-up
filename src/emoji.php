@@ -1,5 +1,6 @@
 <?php
 //aaaa
+//aaaa
 function emoji_encode($str) 
 {
 
