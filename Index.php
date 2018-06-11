@@ -8,6 +8,8 @@
 
 require "./vendor/autoload.php";
 
+
+
 $journey = new \src\design\template\GiftJourney();
 $journey->takeTrip();
 var_dump($journey->getThingsToDo());
